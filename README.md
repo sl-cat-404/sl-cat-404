@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning on basic coding, in other words pretty new to this part of world
+- I'm interested in game design but lack of an original idea and experience.
 <!--
 **sl-cat-404/sl-cat-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
